@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ali0120/ReactTemplate/static/css/main.084f5642.chunk.css",
-    "main.js": "/ali0120/ReactTemplate/static/js/main.ca51ac61.chunk.js",
-    "main.js.map": "/ali0120/ReactTemplate/static/js/main.ca51ac61.chunk.js.map",
-    "runtime-main.js": "/ali0120/ReactTemplate/static/js/runtime-main.18cea3a5.js",
-    "runtime-main.js.map": "/ali0120/ReactTemplate/static/js/runtime-main.18cea3a5.js.map",
-    "static/js/2.c4f6081d.chunk.js": "/ali0120/ReactTemplate/static/js/2.c4f6081d.chunk.js",
-    "static/js/2.c4f6081d.chunk.js.map": "/ali0120/ReactTemplate/static/js/2.c4f6081d.chunk.js.map",
-    "index.html": "/ali0120/ReactTemplate/index.html",
-    "static/css/main.084f5642.chunk.css.map": "/ali0120/ReactTemplate/static/css/main.084f5642.chunk.css.map",
-    "static/js/2.c4f6081d.chunk.js.LICENSE.txt": "/ali0120/ReactTemplate/static/js/2.c4f6081d.chunk.js.LICENSE.txt"
+    "main.css": "/ReactTemplate/static/css/main.084f5642.chunk.css",
+    "main.js": "/ReactTemplate/static/js/main.ca51ac61.chunk.js",
+    "main.js.map": "/ReactTemplate/static/js/main.ca51ac61.chunk.js.map",
+    "runtime-main.js": "/ReactTemplate/static/js/runtime-main.7a644062.js",
+    "runtime-main.js.map": "/ReactTemplate/static/js/runtime-main.7a644062.js.map",
+    "static/js/2.d71272b0.chunk.js": "/ReactTemplate/static/js/2.d71272b0.chunk.js",
+    "static/js/2.d71272b0.chunk.js.map": "/ReactTemplate/static/js/2.d71272b0.chunk.js.map",
+    "index.html": "/ReactTemplate/index.html",
+    "static/css/main.084f5642.chunk.css.map": "/ReactTemplate/static/css/main.084f5642.chunk.css.map",
+    "static/js/2.d71272b0.chunk.js.LICENSE.txt": "/ReactTemplate/static/js/2.d71272b0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.18cea3a5.js",
-    "static/js/2.c4f6081d.chunk.js",
+    "static/js/runtime-main.7a644062.js",
+    "static/js/2.d71272b0.chunk.js",
     "static/css/main.084f5642.chunk.css",
     "static/js/main.ca51ac61.chunk.js"
   ]
