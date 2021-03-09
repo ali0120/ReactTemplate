@@ -34,11 +34,11 @@ import { ProfileSection,Container,ProfileContainer,ProfileTitle,Span,ProfileList
                         <ProfileList>
                             <ProfileItem>
                                 <ProfileSpan>Name</ProfileSpan>
-                                Hamza Nabil
+                                Ali Abdelrahman
                             </ProfileItem>
                             <ProfileItem>
                                 <ProfileSpan>Birthday</ProfileSpan>
-                                21/1/1996
+                                1/2/1996
                             </ProfileItem>
                             <ProfileItem>
                                 <ProfileSpan>Address</ProfileSpan>
